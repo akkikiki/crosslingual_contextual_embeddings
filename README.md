@@ -10,9 +10,18 @@
   * word translation, dependency parsing
 * [Cross-lingual Language Model Pretraining, arXiv](https://arxiv.org/pdf/1901.07291.pdf)
   * cross-lingual classification, MT, Perplexity
-* [How multilingual is Multilingual BERT?, arXiv](https://arxiv.org/pdf/1906.01502.pdf)
+* [How multilingual is Multilingual BERT?, ACL](https://arxiv.org/pdf/1906.01502.pdf)
   * NER, POS tagging
+* [Multilingual Constituency Parsing with Self-Attention and Pre-Training, ACL](https://arxiv.org/pdf/1812.11760.pdf)
+  * constituency parsing
+* [75 Languages, 1 Model: Parsing Universal Dependencies Universally, arXiv](https://arxiv.org/pdf/1904.02099.pdf)
+  * "part-of-speech, morphological features, lemmas, and dependency trees"
+* [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT, arXiv](https://arxiv.org/pdf/1904.09077.pdf)
+  * "NLI, document classification, NER, POS tagging, and dependency parsing"
 
 ## 2018
 * [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://arxiv.org/pdf/1812.10464.pdf)
   * cross-lingual classfication, bitext mining, multilingual similarity search
+
+# References
+* Some papers are referred from [BERT-related Papers repository](https://github.com/tomohideshibata/BERT-related-papers)
