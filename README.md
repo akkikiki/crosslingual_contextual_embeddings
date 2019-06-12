@@ -1,7 +1,6 @@
 # crosslingual_contextual_embeddings
 
 ## 2019
-* [Transfer Learning in Natural Language Processing, NAACL tutorial slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/edit#slide=id.g5882add69e_5_467)
 * [Polyglot Contextual Representations Improve Crosslingual Transfer, NAACL](https://arxiv.org/pdf/1902.09697.pdf)
   * "dependency parsing, semantic role labeling, and named entity recognition"
 * [Context-Aware Cross-Lingual Mapping, NAACL](https://arxiv.org/pdf/1903.03243.pdf)
@@ -24,4 +23,6 @@
   * cross-lingual classfication, bitext mining, multilingual similarity search
 
 # References
-* Some papers are referred from [BERT-related Papers repository](https://github.com/tomohideshibata/BERT-related-papers)
+* Some papers are referred from
+  * [BERT-related Papers repository](https://github.com/tomohideshibata/BERT-related-papers)
+  * [Transfer Learning in Natural Language Processing, NAACL tutorial slides](https://docs.google.com/presentation/d/1fIhGikFPnb7G5kr58OvYC3GN4io7MznnM0aAgadvJfc/edit#slide=id.g5882add69e_5_467)
