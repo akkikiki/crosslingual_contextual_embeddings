@@ -1,4 +1,5 @@
 # crosslingual_contextual_embeddings
+I also list the experiment tasks explored in the referred paper. 
 
 ## 2019
 * [Polyglot Contextual Representations Improve Crosslingual Transfer, NAACL](https://arxiv.org/pdf/1902.09697.pdf)
