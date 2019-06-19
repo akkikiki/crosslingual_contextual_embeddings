@@ -14,6 +14,8 @@ I also list the experiment tasks explored in the referred paper.
   * NER, POS tagging
 * [Multilingual Constituency Parsing with Self-Attention and Pre-Training, ACL](https://arxiv.org/pdf/1812.11760.pdf)
   * constituency parsing
+* [Cross-Lingual Syntactic Transfer through Unsupervised Adaptation of Invertible Projections, ACL](https://arxiv.org/pdf/1906.02656.pdf)
+  * POS-tagging, dependency parsing (though cross-lingual BERT is not the main topic of this paper)
 * [75 Languages, 1 Model: Parsing Universal Dependencies Universally, arXiv](https://arxiv.org/pdf/1904.02099.pdf)
   * "part-of-speech, morphological features, lemmas, and dependency trees"
 * [Beto, Bentz, Becas: The Surprising Cross-Lingual Effectiveness of BERT, arXiv](https://arxiv.org/pdf/1904.09077.pdf)
