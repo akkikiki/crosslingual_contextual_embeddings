@@ -2,6 +2,7 @@
 I also list the experiment tasks explored in the referred paper. 
 
 ## 2019
+* [Unicoder: A Universal Language Encoder by Pre-training with Multiple Cross-lingual Tasks](https://arxiv.org/pdf/1909.00964.pdf)
 * [Small and Practical BERT Models for Sequence Labeling (mini-BERT), arXiv](https://arxiv.org/pdf/1909.00100.pdf)
 * [Polyglot Contextual Representations Improve Crosslingual Transfer, NAACL](https://arxiv.org/pdf/1902.09697.pdf)
   * "dependency parsing, semantic role labeling, and named entity recognition"
