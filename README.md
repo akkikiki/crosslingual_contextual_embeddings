@@ -9,7 +9,7 @@ I also list the experiment tasks explored in the referred paper.
   * word translation, sentence translation retrieval
 * [Cross-Lingual Alignment of Contextual Word Embeddings, with Applications to Zero-shot Dependency Parsing, NAACL](https://arxiv.org/pdf/1902.09492.pdf)
   * word translation, dependency parsing
-* [Cross-lingual Language Model Pretraining, arXiv](https://arxiv.org/pdf/1901.07291.pdf)
+* [Cross-lingual Language Model Pretraining, NeurIPS](https://arxiv.org/pdf/1901.07291.pdf)
   * cross-lingual classification, MT, Perplexity
 * [How multilingual is Multilingual BERT?, ACL](https://arxiv.org/pdf/1906.01502.pdf)
   * NER, POS tagging
