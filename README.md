@@ -2,6 +2,7 @@
 I also list the experiment tasks explored in the referred paper. 
 
 ## 2019
+* [A Robust Self-Learning Framework for Cross-Lingual Text Classification, EMNLP](https://www.aclweb.org/anthology/D19-1658.pdf)
 * [Emerging Cross-lingual Structure in Pretrained Language Models, EMNLP](https://arxiv.org/pdf/1911.01464.pdf)
 * [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856)
   * [Parameter-Efficient Transfer Learning for NLP, ICML](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)
