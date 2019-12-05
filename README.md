@@ -2,6 +2,8 @@
 I also list the experiment tasks explored in the referred paper. 
 
 ## 2019
+* [On the Cross-lingual Transferability of Monolingual Representations](https://arxiv.org/abs/1910.11856)
+  * [Parameter-Efficient Transfer Learning for NLP, ICML](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)
 * [Unicoder: A Universal Language Encoder by Pre-training with Multiple Cross-lingual Tasks](https://arxiv.org/pdf/1909.00964.pdf)
 * [Small and Practical BERT Models for Sequence Labeling (mini-BERT), arXiv](https://arxiv.org/pdf/1909.00100.pdf)
 * [Polyglot Contextual Representations Improve Crosslingual Transfer, NAACL](https://arxiv.org/pdf/1902.09697.pdf)
